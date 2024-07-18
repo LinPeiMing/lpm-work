@@ -2,11 +2,14 @@
 ### 📢🔎 本科 🔥
 - **大三**
 - 当时由于参加电子设计竞赛，学过一些相关知识（控制类偏多），比如基于arduino的智能小车，基于openmv的自动识别跟踪云台，还有电赛经典题目滚球控制系统和电磁炮等：
-- 📷<img src="images/智能小车.jpg" width="20%"><img src="images/openmv.jpg" width="19%">
+- 📷小车基本功能如循迹测距避障等
+- <img src="images/智能小车.jpg" width="20%"><img src="images/openmv.jpg" width="19%">
 - 也参与了学校的一些科研项目，比如加入智算学部实验室帮忙参与Mathless（类似于国产自研matlab）的开发：
-- 📷<img src="images/Mathless.png" width="27%"><img src="images/Mathless2.jpg" width="18%">
+- 📷负责一些通信算法及模型的开发
+- <img src="images/Mathless.png" width="27%"><img src="images/Mathless2.jpg" width="18%">
 - 也参与过校企合作的项目（光华电子&天大），设计云端互联工位故障报警系统：
-- 📷<img src="images/校企合作项目.jpg" width="23%"><img src="images/校企合作项目2.jpg" width="22%">
+- 📷偏嵌入式，基于51和stm32
+- <img src="images/校企合作项目.jpg" width="23%"><img src="images/校企合作项目2.jpg" width="22%">
 - **大四**
 - 开始接触有关机器学习以及深度学习的知识，比如BP、SVM、手写体识别等：
 - 📷<img src="images/SVM.jpg" width="24%"><img src="images/手写体识别.png" width="25%">
@@ -20,4 +23,4 @@
 - <img src="images/ICME2024oral.png" width="80%">
 - **2023.09-2024.03** 🚀 Towards Real-World Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content aware Stereo Super-Resolution Network：立体图像（双目视觉）盲超分，更适用于真实场景；
 - 📷 SR Results
-- <img src="images/ICME2024oral.png" width="80%">
+- [<img src="images/SR result1-1.png" width="50%">](https://imgsli.com/MjgwMDE2)
