@@ -27,4 +27,4 @@
 - [<img src="images/SR result1-3.png" width="35%">](https://imgsli.com/MjgwMDIy) [<img src="images/SR result1-4.png" width="41%">](https://imgsli.com/MjgwMDIz)
 - **2024.03-2024.07** 🚀 Degradation Intensity Modulation Transformer for Real-World Stereo Super-Resolution：立体图像（双目视觉）真实世界超分，更适用于真实场景；
 - 📷 SR Results
-- [<img src="images/SR result2-1.png" width="45%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx)
+- [<img src="images/SR result2-1.png" width="23%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx)
