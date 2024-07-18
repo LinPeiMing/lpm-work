@@ -23,8 +23,8 @@
 - <img src="images/ICME2024oral.png" width="80%">
 - **2023.09-2024.03** 🚀 Towards Real-World Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content aware Stereo Super-Resolution Network：立体图像（双目视觉）盲超分，更适用于真实场景；
 - 📷 SR Results
-- [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="38%">](https://imgsli.com/MjgwMDE4)
-- [<img src="images/SR result1-3.png" width="35%">](https://imgsli.com/MjgwMDIy) [<img src="images/SR result1-4.png" width="42%">](https://imgsli.com/MjgwMDIz)
+- [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="37%">](https://imgsli.com/MjgwMDE4)
+- [<img src="images/SR result1-3.png" width="35%">](https://imgsli.com/MjgwMDIy) [<img src="images/SR result1-4.png" width="41%">](https://imgsli.com/MjgwMDIz)
 - **2024.03-2024.07** 🚀 Degradation Intensity Modulation Transformer for Real-World Stereo Super-Resolution：立体图像（双目视觉）真实世界超分，更适用于真实场景；
 - 📷 SR Results
 - [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="35%">](https://imgsli.com/MjgwMDE4)
