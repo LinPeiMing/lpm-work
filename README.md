@@ -37,4 +37,5 @@
 ### 2024.03-2024.07 🚀 **Degradation Intensity Modulation Transformer for Real-World Stereo Super-Resolution**
 - 立体（双目视觉）图像真实世界超分，包括PSNR版本和GAN版本，客观指标及主观视觉效果远超现有单图盲超分和立体超分方法，且足够轻量化，更适用于真实场景；
 #### 📷 SR Results（点击图片查看）
-- [<img src="images/SR result2-1.png" width="21%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx) [<img src="images/SR result2-3.png" width="35%">](https://imgsli.com/MjgwMjEz)
+- [<img src="images/SR result2-1.png" width="21%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx) [<img src="images/SR result2-3.png" width="50%">](https://imgsli.com/MjgwMjEz)
+- [<img src="images/SR result2-4.png" width="21%">](https://imgsli.com/MjgwMjE1) [<img src="images/SR result2-5.png" width="35%">](https://imgsli.com/MjgwMjE2) [<img src="images/SR result2-6.png" width="35%">](https://imgsli.com/MjgwMjE3)
