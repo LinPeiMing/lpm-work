@@ -21,21 +21,21 @@
 #### 📷 SR Results（点击图片查看）
 - [<img src="images/SR result2-1.png" width="21%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx) [<img src="images/SR result2-4.png" width="36%">](https://imgsli.com/MjgwMjE1)
 - [<img src="images/SR result2-3.png" width="30%">](https://imgsli.com/MjgwMjEz) [<img src="images/SR result2-5.png" width="36%">](https://imgsli.com/MjgwMjE2) [<img src="images/SR result2-6.png" width="30%">](https://imgsli.com/MjgwMjE3)
-## 📢🔎 本科 🔥
+## 🔎 本科 🔥🔥
 ### 大三
-- 当时由于参加电子设计竞赛，学过一些相关知识（控制类偏多），比如基于arduino的智能小车，基于openmv的自动识别跟踪云台，还有电赛经典题目滚球控制系统、电磁炮、球形机器人等：
+- 📢当时由于参加电子设计竞赛，学过一些相关知识（控制类偏多），比如基于arduino的智能小车，基于openmv的自动识别跟踪云台，还有电赛经典题目滚球控制系统、电磁炮、球形机器人等：
 #### 📷小车基本功能如循迹测距避障等；openmv具有机器视觉算法如色块跟踪、人脸检测等，可对实际场景中的物体进行检测识别并跟随其运动
 - <img src="images/智能小车.jpg" width="20%"><img src="images/openmv.jpg" width="19%">
-- 也参与了学校的一些科研项目，比如加入智算学部实验室帮忙参与Mathless（类似于国产自研matlab）的开发：
+- 📢也参与了学校的一些科研项目，比如加入智算学部实验室帮忙参与Mathless（类似于国产自研matlab）的开发：
 #### 📷负责一些通信算法及模型的开发
 - <img src="images/Mathless.png" width="27%"><img src="images/Mathless2.jpg" width="18%">
-- 也参与过校企合作的项目（光华电子&天大），设计云端互联工位故障报警系统：
+- 📢也参与过校企合作的项目（光华电子&天大），设计云端互联工位故障报警系统：
 #### 📷偏嵌入式，基于51和stm32单片机的信号传输系统，并加备了云端和联网等功能
 - <img src="images/校企合作项目.jpg" width="23%"><img src="images/校企合作项目2.jpg" width="22%">
 ### 大四
-- 开始接触有关机器学习以及深度学习的知识，比如K-Means、BP、SVM、手写体识别等：
+- 📢开始接触有关机器学习以及深度学习的知识，比如K-Means、BP、SVM、手写体识别等：
 #### 📷学习内容主要为学校的深度学习课程以及斯坦福CS231N课程（包括大作业等）
 - <img src="images/SVM.jpg" width="24%"><img src="images/手写体识别.png" width="25%">
-- 毕设是做的图像分类以及神经网络的可解释性相关：
+- 📢毕设是做的图像分类以及神经网络的可解释性相关：
 #### 📷backbone用的ResNet，可解释性方法为积分梯度归因法等
 - <img src="images/神经网络可解释性.png" width="27%"><img src="images/毕设.png" width="50%">
