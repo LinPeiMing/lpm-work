@@ -11,7 +11,7 @@
 - 质量评价指导的深度图超分，效果为同时期SOTA水准；
   <img src="images/Depth map SR1.png" width="70%">
   <img src="images/Depth map SR2.png" width="70%">
-### 2023.09-2024.03 🚀 **Toward Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content aware Stereo Image Super-Resolution Network**
+### 2023.09-2024.03 🚀 **Toward Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content Aware Stereo Image Super-Resolution Network**
 - 立体（双目视觉）图像盲超分，首次面向立体图像盲超分领域，利用无监督对比学习提取退化和内容表征作为先验信息并指导网络进行重建，效果远超现有单图盲超分和立体超分方法，对真实世界中各种复杂退化具有鲁棒性；
 #### 📷 SR Results（点击图片查看）
  [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="37%">](https://imgsli.com/MjgwMDE4)
