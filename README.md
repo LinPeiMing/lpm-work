@@ -1,12 +1,12 @@
 # 个人项目经历
 ## 🔎 硕士 🔥🔥🔥
-- 📢 进入实验室后主要研究方向为**基于深度学习的图像超分辨率（SR）**，所以对**low-level vision**任务较为熟悉，如图像超分、图像恢复、图像增强等，实验室其他方向包括图像质量评价，文本检测，语义分割等，所以对这些方向也有所了解~
+📢 进入实验室后主要研究方向为**基于深度学习的图像超分辨率（SR）**，所以对**low-level vision**任务较为熟悉，如图像超分、图像恢复、图像增强等，实验室其他方向包括图像质量评价，文本检测，语义分割等，所以对这些方向也有所了解~
 ### 2023.03-2023.06 🚀 **I&sup2;GSRnet: Iterative Interaction Guidance Network for Stereo Image Super-Resolution**
 - 立体（双目视觉）图像超分，搭建了一个基于迭代交互指导的网络，校准视差信息并捕捉立体图像间的全局信息，并通过多次迭代将跨视点信息与自身视点信息进行融合及校正，效果为同时期SOTA水准。该论文已于**ICME2024**（IEEE International Conference on Multimedia and Expo, CCF-B类会议）发表；
-- <img src="images/ICME2024poster.png" width="90%">
+  <img src="images/ICME2024poster.png" width="90%">
 ### 2023.06-2023.09 🚀 **A Lightweight CNN and Spatial-Channel Transformer Hybrid Network for Image Super-Resolution**
 - 单图轻量化超分，搭建了一个CNN和Transformer混合的轻量型网络，其中融合了Transformer提取到的通道和空间双维度全局特征以及CNN提取到的高频局部特征，以极少的参数量和计算量实现了极佳的性能，效果为同时期SOTA水准。该论文已于**ICME2024**（IEEE International Conference on Multimedia and Expo, CCF-B类会议）发表（**oral**）；
-- <img src="images/ICME2024oral.png" width="90%">
+  <img src="images/ICME2024oral.png" width="90%">
 ### 2023.12-2024.01 🚀 **Hybrid CNN and Transformer Network Guided by Quality Assessment for Depth Map Super-Resolution**
 - 质量评价指导的深度图超分，效果为同时期SOTA水准；
 - <img src="images/Depth map SR1.png" width="70%">
