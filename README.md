@@ -13,14 +13,23 @@
   <img src="images/Depth map SR2.png" width="70%">
 ### 2023.09-2024.03 🚀 **Toward Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content Aware Stereo Image Super-Resolution Network**
 - 立体（双目视觉）图像盲超分，首次面向立体图像盲超分领域，利用无监督对比学习提取退化和内容表征作为先验信息并指导网络进行重建，效果远超现有单图盲超分和立体超分方法，对真实世界中各种复杂退化具有鲁棒性；
+- <img src="images/work1_contrastive learning scheme.png" width="70%">
 #### 📷 SR Results（点击图片查看）
  [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="37%">](https://imgsli.com/MjgwMDE4)
  [<img src="images/SR result1-3.png" width="35%">](https://imgsli.com/MjgwMDIy) [<img src="images/SR result1-4.png" width="41%">](https://imgsli.com/MjgwMDIz)
+ - <img src="images/work1x2.png" width="70%">
+ - <img src="images/work1x2_2.png" width="70%">
+ - <img src="images/work1x4_1.png" width="70%">
 ### 2024.03-2024.07 🚀 **Degradation Intensity Modulation Transformer for Real-World Stereo Image Super-Resolution**
 - 立体（双目视觉）图像真实世界超分，包括PSNR版本和GAN版本，客观指标及主观视觉效果远超现有单图盲超分和立体超分方法，且足够轻量化，更适用于真实场景；
+- <img src="images/work2_net.png" width="70%">
+- <img src="images/work2_compare.png" width="70%">
 #### 📷 SR Results（点击图片查看）
+- <img src="images/work2real1.png" width="70%">
+- <img src="images/work2real2.png" width="70%">
  [<img src="images/SR result2-1.png" width="21%">](https://imgsli.com/MjgwMDMw) [<img src="images/SR result2-2.png" width="35%">](https://imgsli.com/MjgwMDMx) [<img src="images/SR result2-4.png" width="36%">](https://imgsli.com/MjgwMjE1)
  [<img src="images/SR result2-3.png" width="30%">](https://imgsli.com/MjgwMjEz) [<img src="images/SR result2-5.png" width="36%">](https://imgsli.com/MjgwMjE2) [<img src="images/SR result2-6.png" width="30%">](https://imgsli.com/MjgwMjE3)
+
 ## 🔎 本科 🔥🔥
 ### 大三
 - 📢当时由于参加电子设计竞赛，学过一些相关知识（控制类偏多），比如基于arduino的智能小车，基于openmv的舵机云台，还有电赛经典题目滚球控制系统、电磁炮、球形机器人等：
