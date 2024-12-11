@@ -13,7 +13,7 @@
   <img src="images/Depth map SR2.png" width="70%">
 ### 2023.09-2024.03 🚀 **Toward Blind Super-Resolution for Stereo Image：A Hybrid Degradation-Content Aware Stereo Image Super-Resolution Network**
 - 立体（双目视觉）图像盲超分，首次面向立体图像盲超分领域，利用无监督对比学习提取退化和内容表征作为先验信息并指导网络进行重建，效果远超现有单图盲超分和立体超分方法，对真实世界中各种复杂退化具有鲁棒性；
-- <img src="images/work1_contrastive learning scheme.png" width="70%">
+  <img src="images/work1_contrastive learning scheme.png" width="70%">
 #### 📷 SR Results（点击图片查看）
  [<img src="images/SR result1-1.png" width="45%">](https://imgsli.com/MjgwMDE2) [<img src="images/SR result1-2.png" width="37%">](https://imgsli.com/MjgwMDE4)
  [<img src="images/SR result1-3.png" width="35%">](https://imgsli.com/MjgwMDIy) [<img src="images/SR result1-4.png" width="41%">](https://imgsli.com/MjgwMDIz)
@@ -23,7 +23,7 @@
 ### 2024.03-2024.07 🚀 **Degradation Intensity Modulation Transformer for Real-World Stereo Image Super-Resolution**
 - 立体（双目视觉）图像真实世界超分，包括PSNR版本和GAN版本，客观指标及主观视觉效果远超现有单图盲超分和立体超分方法，且足够轻量化，更适用于真实场景；
 - <img src="images/work2_net.png" width="70%">
-- <img src="images/work2_compare.png" width="70%">
+- <img src="images/work2_compare.png" width="40%">
 #### 📷 SR Results（点击图片查看）
 - <img src="images/work2real1.png" width="70%">
 - <img src="images/work2real2.png" width="70%">
